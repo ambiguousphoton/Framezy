@@ -8,10 +8,10 @@
     "userInterfaceStyle": "light",
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.framezy.app"
+      "bundleIdentifier": "com.ambiguousphoton.framezy"
     },
     "android": {
-      "package": "com.framezy.app",
+      "package": "com.ambiguousphoton.framezy",
       "adaptiveIcon": {
         "backgroundColor": "#fc5e97",
         "foregroundImage": "./assets/android-icon-foreground.png",
